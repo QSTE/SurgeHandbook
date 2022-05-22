@@ -6,7 +6,7 @@
 你现在可以通过 UI 界面配置脚本了。
 
 #### **配置文件**
-你现在可以把配置文件中的部分段落用单独的一个文件写。详情参考：https://surge.mitsea.com/overview/configuration。
+你现在可以把配置文件中的部分段落用单独的一个文件写。详情参考：https://surge.qste.com/overview/configuration。
 
 #### **HTTP API**
 1. 添加了关于配置文件的 HTTP API，包括 GET /profiles 和 POST /profiles/check。
